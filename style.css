@@ -1,3 +1,11 @@
 h1{
-    color: aqua;
+    color: rgba(102, 255, 0, 0.801);
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    background-color: aqua;
+    margin-right: 50%;
+    background-size: contain;
+    
 }
